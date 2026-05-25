@@ -1,3 +1,5 @@
+<img width="1454" height="976" alt="image" src="https://github.com/user-attachments/assets/159c48a1-099f-421c-87cd-e5311cdd4a2e" />
+<img width="1422" height="214" alt="image" src="https://github.com/user-attachments/assets/b7cc5ec8-5716-4002-96e9-c76aa0e26e5a" />
 
 
 Roman numerals are formed by appending the conversions of decimal place values from highest to lowest. Converting a decimal place value into a Roman numeral has the following rules:
